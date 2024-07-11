@@ -1,0 +1,6 @@
+@TraderWebApp_HostAddress = http://localhost:5264
+
+
+GET {{TraderWebApp_HostAddress}}/api/getPlan?typeOfOrder=sell&Amount=2
+
+###
