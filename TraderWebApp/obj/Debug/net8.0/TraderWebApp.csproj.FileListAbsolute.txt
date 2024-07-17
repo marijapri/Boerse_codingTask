@@ -31,3 +31,4 @@ C:\Users\marij\source\repos\TraderWebApp\TraderWebApp\obj\Debug\net8.0\TraderWeb
 C:\Users\marij\source\repos\TraderWebApp\TraderWebApp\obj\Debug\net8.0\TraderWebApp.genruntimeconfig.cache
 C:\Users\marij\source\repos\TraderWebApp\TraderWebApp\obj\Debug\net8.0\ref\TraderWebApp.dll
 C:\Users\marij\source\repos\TraderWebApp\TraderWebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marij\source\repos\TraderWebApp\TraderWebApp\obj\Debug\net8.0\TraderWebApp.sourcelink.json

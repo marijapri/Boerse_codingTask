@@ -18,6 +18,10 @@ namespace TraderWebApp.Controllers
         [HttpGet("getPlan")]
         public async Task<IActionResult> GetBestExecutionPlan([FromQuery] UserInputData input )
         {
+            if (input == null)
+            {
+                return BadRequest();
+            }
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);

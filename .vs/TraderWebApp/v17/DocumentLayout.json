@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\traderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\traderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\controllers\\tradercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\controllers\\tradercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\traderwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\traderwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\orderplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\orderplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\interfaces\\itraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\interfaces\\itraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B917B831-2E79-4B70-BA71-F0DADC55E380}|APITests\\APITests.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\apitests\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917B831-2E79-4B70-BA71-F0DADC55E380}|APITests\\APITests.csproj|solutionrelative:apitests\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\userinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\userinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\traderwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\traderwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\traderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\traderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\utils\\executionplanutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\utils\\executionplanutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\interfaces\\itraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\interfaces\\itraderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\controllers\\tradercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\controllers\\tradercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\orderplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\orderplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\orderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\orderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\order_books_data||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\order_books_data||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|c:\\users\\marij\\source\\repos\\traderwebapp\\traderwebapp\\order_books_data||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{298C89B8-DE92-457F-8B3E-490382DB52EC}|TraderWebApp\\TraderWebApp.csproj|solutionrelative:traderwebapp\\order_books_data||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "ExecutionPlanUtils.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Utils\\ExecutionPlanUtils.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\Utils\\ExecutionPlanUtils.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Utils\\ExecutionPlanUtils.cs",
+              "RelativeToolTip": "TraderWebApp\\Utils\\ExecutionPlanUtils.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:11:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\APITests\\ApiTests.cs",
+              "RelativeDocumentMoniker": "APITests\\ApiTests.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\APITests\\ApiTests.cs",
+              "RelativeToolTip": "APITests\\ApiTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:52:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraderController.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Controllers\\TraderController.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\Controllers\\TraderController.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Controllers\\TraderController.cs",
+              "RelativeToolTip": "TraderWebApp\\Controllers\\TraderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:46:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraderService.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\TraderService.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\TraderService.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\TraderService.cs",
+              "RelativeToolTip": "TraderWebApp\\TraderService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAjwFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:15:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderPlan.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\OrderPlan.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\Models\\OrderPlan.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\OrderPlan.cs",
+              "RelativeToolTip": "TraderWebApp\\Models\\OrderPlan.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:05:02.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "OrderBook.cs",
               "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\OrderBook.cs",
               "RelativeDocumentMoniker": "TraderWebApp\\Models\\OrderBook.cs",
@@ -79,92 +152,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TraderService.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\TraderService.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\TraderService.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\TraderService.cs",
-              "RelativeToolTip": "TraderWebApp\\TraderService.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAD4v2QAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:15:38.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "order_books_data",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\order_books_data",
-              "RelativeDocumentMoniker": "TraderWebApp\\order_books_data",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\order_books_data",
-              "RelativeToolTip": "TraderWebApp\\order_books_data",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-10T18:29:10.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITraderService.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Interfaces\\ITraderService.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\Interfaces\\ITraderService.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Interfaces\\ITraderService.cs",
-              "RelativeToolTip": "TraderWebApp\\Interfaces\\ITraderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:13:01.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderPlan.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\OrderPlan.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\Models\\OrderPlan.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\OrderPlan.cs",
-              "RelativeToolTip": "TraderWebApp\\Models\\OrderPlan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:05:02.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderConverter.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\OrderConverter.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\OrderConverter.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\OrderConverter.cs",
-              "RelativeToolTip": "TraderWebApp\\OrderConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:01:53.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\Order.cs",
               "RelativeDocumentMoniker": "TraderWebApp\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Models\\Order.cs",
               "RelativeToolTip": "TraderWebApp\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T18:01:06.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserInputData.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\UserInputData.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\UserInputData.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\UserInputData.cs",
-              "RelativeToolTip": "TraderWebApp\\UserInputData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T17:51:30.931Z",
               "EditorCaption": ""
             },
             {
@@ -175,14 +171,66 @@
               "RelativeDocumentMoniker": "TraderWebApp\\TraderWebApp.http",
               "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\TraderWebApp.http",
               "RelativeToolTip": "TraderWebApp\\TraderWebApp.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-07-10T15:51:15.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderConverter.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\OrderConverter.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\OrderConverter.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\OrderConverter.cs",
+              "RelativeToolTip": "TraderWebApp\\OrderConverter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:01:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITraderService.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Interfaces\\ITraderService.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\Interfaces\\ITraderService.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Interfaces\\ITraderService.cs",
+              "RelativeToolTip": "TraderWebApp\\Interfaces\\ITraderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:13:01.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInputData.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\UserInputData.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\UserInputData.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\UserInputData.cs",
+              "RelativeToolTip": "TraderWebApp\\UserInputData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:51:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TraderWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Program.cs",
+              "RelativeToolTip": "TraderWebApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:46:17.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "TraderWebApp\\appsettings.json",
@@ -190,32 +238,20 @@
               "RelativeToolTip": "TraderWebApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-10T15:51:12.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Program.cs",
-              "RelativeToolTip": "TraderWebApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:46:17.212Z",
+              "WhenOpened": "2024-07-10T15:51:12.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TraderController.cs",
-              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Controllers\\TraderController.cs",
-              "RelativeDocumentMoniker": "TraderWebApp\\Controllers\\TraderController.cs",
-              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\Controllers\\TraderController.cs",
-              "RelativeToolTip": "TraderWebApp\\Controllers\\TraderController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:46:10.245Z",
+              "DocumentIndex": 13,
+              "Title": "order_books_data",
+              "DocumentMoniker": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\order_books_data",
+              "RelativeDocumentMoniker": "TraderWebApp\\order_books_data",
+              "ToolTip": "C:\\Users\\marij\\source\\repos\\TraderWebApp\\TraderWebApp\\order_books_data",
+              "RelativeToolTip": "TraderWebApp\\order_books_data",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-10T18:29:10.218Z",
               "EditorCaption": ""
             }
           ]

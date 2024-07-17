@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using TraderWebApp.Interfaces;
 using TraderWebApp.Models;
+using TraderWebApp.Utils;
 
 namespace TraderWebApp
 {
@@ -9,11 +10,11 @@ namespace TraderWebApp
     {
         public static OrderType GetOrderType(string order)
         {
-            switch (order.ToLower().Trim())
+            switch (order.ToUpper().Trim())
             {
-                case "buy":
+                case "BUY":
                     return OrderType.Buy;
-                case "sell":
+                case "SELL":
                     return OrderType.Sell;
                 default:
                     throw new ArgumentException("Invalid order type");
@@ -103,57 +104,10 @@ namespace TraderWebApp
             //tole bi šlo verjetno v utilse
             List<Order> orders = await ReadFileAndGetListOfOrders(GetOrderType(inputData.TypeOfOrder));
 
-            double remainingAmount = inputData.Amount;
 
-            List<OrderPlan> retVal = new List<OrderPlan>();
-
-            if (OrderType.Buy.Equals(GetOrderType(inputData.TypeOfOrder)))
-            {
-                orders = orders.OrderBy(x => x.Price).ToList();
-            }
-            else
-            {
-                orders = orders.OrderByDescending(x => x.Price).ToList();
-            }
-            foreach (Order order in orders)
-            {
-                if (remainingAmount <= 0)
-                    break;
-                //sploh možno?
-                if(order.Amount<= 0)
-                {
-                    continue;
-                }
-
-                if (order.Amount >= remainingAmount)
-                {
-                    retVal.Add(new OrderPlan
-                    {
-                        Exchange = order.Exchange,
-                        Amount = remainingAmount,
-                        Price = order.Price
-                    });
-
-                    remainingAmount = 0;
-                    break;
-                }
-                else 
-                {
-                    retVal.Add(new OrderPlan
-                    {
-                        Exchange = order.Exchange,
-                        Amount = order.Amount,
-                        Price = order.Price
-                    });
-
-                    remainingAmount -= order.Amount;
-                }
-            }
-            if (remainingAmount > 0)
-            {
-                throw new Exception("Based on your requests, we can't provide a plan for the amount of BTC you want to buy/sell");
-            }
-            return retVal;
+            return ExecutionPlanUtils.GetFinalExecutionPlan(GetOrderType(inputData.TypeOfOrder),  orders, inputData.Amount);
         }
+
+        
     }
 }
